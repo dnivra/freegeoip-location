@@ -1,7 +1,7 @@
 freegeoip-location
 ==================
 
-Script to fetch geo ip location from freegeoip.net
+Script to fetch geo ip location from freegeoip.net. Currently supports only CSV output format.
 
 Dependencies
 ------------
